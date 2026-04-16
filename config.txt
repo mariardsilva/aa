@@ -1,0 +1,8 @@
+2
+2 3 3.0 4.0
+1 5 2.0 3.0
+arrivals 0 1.0 4.0
+routing 0 1 1.0
+num_simulations 100000
+seed 100000
+first_arrival 1.5
